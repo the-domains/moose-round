@@ -1,7 +1,7 @@
-name: Moose round
+name: MooseRound
 favicon: null
-layout_spectrum: 0.8293894263915718
-typography_spectrum: 0.6622778854798526
+layout_spectrum: 0.88847
+typography_spectrum: 0.12566
 title: MooseRound
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.08648290252313018
-  lightness: 0.26439616410061717
-  saturation: 0.958150184713304
-  rhythmicContrast: 0.42963739787228405
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
