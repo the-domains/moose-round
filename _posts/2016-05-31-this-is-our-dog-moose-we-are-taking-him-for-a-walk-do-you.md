@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is our dog Moose. We are taking him for a walk. Do you wanna come?
-datePublished: '2016-05-31T13:58:20.894Z'
-dateModified: '2016-05-31T13:58:13.788Z'
+datePublished: '2016-05-31T16:12:09.322Z'
+dateModified: '2016-05-31T16:12:09.030Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-31-this-is-our-dog-moose-we-are-taking-him-for-a-walk-do-you.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-31-this-is-our-dog-moose-we-are-taking-him-for-a-walk-do-you.md
 url: this-is-our-dog-moose-we-are-taking-him-for-a-walk-do-you/index.html
 _type: Article
 
