@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MooseRound]]></title>
         <description><![CDATA[MooseRound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moose-round/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 13:58:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 14:08:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moose-round/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa3ffbf-07f6-47b4-96c6-c51924ccb3a5.jpg">]]></description>
+            <link>https://thegrid.ai/moose-round/7c93209d-f216-408f-8135-5c21a3941840/index.html</link>
+            <guid isPermaLink="false">7c93209d-f216-408f-8135-5c21a3941840</guid>
+            <pubDate>Tue, 31 May 2016 14:08:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74edbe11-bd28-42e2-b8a7-7c7364cff0cb.jpg" alt="" title="">]]></description>
-            <link>undefinedthis-is-our-dog-moose-we-are-taking-him-for-a-walk-do-you/index.html</link>
+            <link>https://thegrid.ai/moose-round/this-is-our-dog-moose-we-are-taking-him-for-a-walk-do-you/index.html</link>
             <guid isPermaLink="false">9b2e167b-3fab-4fbf-9438-a47fe1244292</guid>
             <pubDate>Tue, 31 May 2016 13:58:20 GMT</pubDate>
         </item>
