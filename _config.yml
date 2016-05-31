@@ -2,6 +2,7 @@ name: Moose round
 favicon: null
 layout_spectrum: 0.8293894263915718
 typography_spectrum: 0.6622778854798526
+title: MooseRound
 cta:
   domain: null
   bucket: null
